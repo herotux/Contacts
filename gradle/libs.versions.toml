@@ -1,8 +1,8 @@
 [versions]
 #jetbrains
-kotlin = "2.3.0"
+kotlin = "2.3.20"
 #KSP
-ksp = "2.3.5"
+ksp = "2.3.10"
 #Detekt
 detekt = "1.23.8"
 detektCompose = "0.4.28"
@@ -17,7 +17,7 @@ indicatorfastscroll = "fe6ddbc316"
 #Room
 room = "2.8.4"
 #Gradle
-gradlePlugins-agp = "8.11.1"
+gradlePlugins-agp = "9.3.1"
 #Goodwy
 homa-commons = "23bb4a7bf685ffa61c8df815db6467cb926f071a"
 behavioRule = "1.0.1"
@@ -26,8 +26,8 @@ rxJava3 = "3.1.5"
 androidx-lifecycle = "2.10.0"
 swipeToActionLayout = "94ab9268eb"
 #build
-app-build-compileSDKVersion = "36"
-app-build-targetSDK = "36"
+app-build-compileSDKVersion = "37"
+app-build-targetSDK = "37"
 app-build-minimumSDK = "26"
 app-build-javaVersion = "VERSION_17"
 app-build-kotlinJVMTarget = "17"
