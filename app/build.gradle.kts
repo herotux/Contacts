@@ -159,9 +159,9 @@ dependencies {
     detektPlugins(libs.compose.detekt)
 
     //Goodwy
-    "gplayImplementation"(libs.goodwy.commons.gplay)
-    "fossImplementation"(libs.goodwy.commons.foss)
-    "rustoreImplementation"(libs.goodwy.commons.rustore)
+    "gplayImplementation"(libs.homa.commons.gplay)
+    "fossImplementation"(libs.homa.commons.foss)
+    "rustoreImplementation"(libs.homa.commons.rustore)
     implementation(libs.behavio.rule)
     implementation(libs.rx.animation)
     implementation(libs.bundles.lifecycle)
